@@ -23,7 +23,7 @@ The Online Voting Management Project is a software application developed using C
 **Vote:** Voter can cast the vote securely.<br>
 **Check Result:** Voter Can check the result after publishing.
 <br><br>
-##Snippts of The project
+## Snippts of The project
 ![Screenshot_1](https://github.com/Debajyotijana03/Online-Voting-Management-System/assets/79994808/f1442aad-1a60-40c0-8fd5-c6f07e79387e)
 #### Voter Registration
 ![image](https://github.com/Debajyotijana03/Online-Voting-Management-System/assets/79994808/7396a218-d59a-47f3-b60e-2f8d898e02ab)
